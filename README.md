@@ -28,11 +28,10 @@ Controls
 Press q to exit the video feed.
 
 ### Acknowledgments
-OpenCV - Open Source Computer Vision Library
-SSD MobileNet - Single Shot Multibox Detector (SSD) with MobileNet (for object detection)
-COCO Dataset - A large-scale object detection, segmentation, and captioning dataset.
-Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Any improvements, bug fixes, or feature additions are welcome!
+- OpenCV - Open Source Computer Vision Library.
+- SSD MobileNet - Single Shot Multibox Detector (SSD) with MobileNet (for object detection).
+- COCO Dataset - A large-scale object detection, segmentation, and captioning dataset.
+
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
