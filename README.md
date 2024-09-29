@@ -47,9 +47,3 @@ pip install opencv-python numpy
 
 
 
-
-**## How to Use the README**
-- Copy and paste the above content into a file named `README.md` in the root directory of your project.
-- Customize or extend sections as necessary, depending on your project's specifics or unique features. 
-
-This README provides clear documentation for users and contributors, helping them set up and understand the project's functionality.
