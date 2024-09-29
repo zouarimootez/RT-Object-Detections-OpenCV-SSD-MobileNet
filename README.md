@@ -42,7 +42,3 @@ You can install the required packages using pip. Run the following command in yo
 
 ```bash
 pip install opencv-python numpy
-
-
-
-
