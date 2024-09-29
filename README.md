@@ -25,3 +25,28 @@ You can install the required packages using pip. Run the following command in yo
 
 ```bash
 pip install opencv-python numpy
+
+
+
+Running the Project
+After setting up the environment and downloading the necessary files, you can run the object detection program using:
+
+python main.py
+Controls
+Press q to exit the video feed.
+Acknowledgments
+OpenCV - Open Source Computer Vision Library
+SSD MobileNet - Single Shot Multibox Detector (SSD) with MobileNet (for object detection)
+COCO Dataset - A large-scale object detection, segmentation, and captioning dataset.
+Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Any improvements, bug fixes, or feature additions are welcome!
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+### How to Use the README
+- Copy and paste the above content into a file named `README.md` in the root directory of your project.
+- Customize or extend sections as necessary, depending on your project's specifics or unique features. 
+
+This README provides clear documentation for users and contributors, helping them set up and understand the project's functionality.
